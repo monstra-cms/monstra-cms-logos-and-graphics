@@ -1,4 +1,1 @@
-logos-and-graphics
-==================
-
-LOGOS AND GRAPHICS
+# Monstra Logos and Graphics
